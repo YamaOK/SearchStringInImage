@@ -1,0 +1,23 @@
+{
+  "name": "searchstringinimage",
+  "version": "1.0.0",
+  "description": "Search the String in Image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YamaOK/SearchStringInImage.git"
+  },
+  "author": "Masakuni Yamaoka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YamaOK/SearchStringInImage/issues"
+  },
+  "homepage": "https://github.com/YamaOK/SearchStringInImage#readme",
+  "devDependencies": {
+    "async": "^3.2.0",
+    "tesseract.js": "^2.1.4"
+  }
+}
